@@ -64,7 +64,9 @@ print(df1)
 ```
 
 ## OUTPUT:
-/ Show the result/
-
+![output](https://github.com/VINUTHNA-2004/Ex.No.1---Data-Preprocessing/blob/main/11.png)
+![output](https://github.com/VINUTHNA-2004/Ex.No.1---Data-Preprocessing/blob/main/12.png)
+![output](https://github.com/VINUTHNA-2004/Ex.No.1---Data-Preprocessing/blob/main/13.png)
+![output](https://github.com/VINUTHNA-2004/Ex.No.1---Data-Preprocessing/blob/main/14.png)
 ## RESULT
-/Type your result here/
+Thus the above program for standardizing the given data was implemented successfully.
